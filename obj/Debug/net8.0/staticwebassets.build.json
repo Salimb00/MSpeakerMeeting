@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LkMrWi7QxAfohUbQ9Jd02UzajFWI6kkLJ3CVh3LsQKE=",
+  "Source": "MSpeakerMeeting.API",
+  "BasePath": "_content/MSpeakerMeeting.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

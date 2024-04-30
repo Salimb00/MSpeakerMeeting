@@ -1,0 +1,117 @@
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.exe
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.deps.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.runtimeconfig.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.pdb
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MspeakerMeeting.Exceptions.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerClassLibrary.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerService.Interfaces.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerService.Interfaces.pdb
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MspeakerMeeting.Exceptions.pdb
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerClassLibrary.pdb
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.csproj.AssemblyReference.cache
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.AssemblyInfoInputs.cache
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.AssemblyInfo.cs
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.csproj.CoreCompileInputs.cache
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.MSpeakerMeeting.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.build.MSpeakerMeeting.API.props
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MSpeakerMeeting.API.props
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MSpeakerMeeting.API.props
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\scopedcss\bundle\MSpeakerMeeting.API.styles.css
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeaker.EC12F147.Up2Date
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\refint\MSpeakerMeeting.API.dll
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.pdb
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.genruntimeconfig.cache
+C:\Users\moal\source\repos\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\ref\MSpeakerMeeting.API.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\appsettings.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.exe
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.deps.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.runtimeconfig.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.pdb
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MspeakerMeeting.Exceptions.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerClassLibrary.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerService.Interfaces.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerService.Interfaces.pdb
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MspeakerMeeting.Exceptions.pdb
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerClassLibrary.pdb
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.csproj.AssemblyReference.cache
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.AssemblyInfoInputs.cache
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.AssemblyInfo.cs
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.csproj.CoreCompileInputs.cache
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.MSpeakerMeeting.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.build.MSpeakerMeeting.API.props
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MSpeakerMeeting.API.props
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MSpeakerMeeting.API.props
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\scopedcss\bundle\MSpeakerMeeting.API.styles.css
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeaker.EC12F147.Up2Date
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\refint\MSpeakerMeeting.API.dll
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.pdb
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.genruntimeconfig.cache
+C:\Users\moal\Documents\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\ref\MSpeakerMeeting.API.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\appsettings.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.exe
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.deps.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.runtimeconfig.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MSpeakerMeeting.API.pdb
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MspeakerMeeting.Exceptions.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerClassLibrary.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerService.Interfaces.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerService.Interfaces.pdb
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\MspeakerMeeting.Exceptions.pdb
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\SpeakerClassLibrary.pdb
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.csproj.AssemblyReference.cache
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.AssemblyInfoInputs.cache
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.AssemblyInfo.cs
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.csproj.CoreCompileInputs.cache
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.sourcelink.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.MSpeakerMeeting.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.build.MSpeakerMeeting.API.props
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MSpeakerMeeting.API.props
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MSpeakerMeeting.API.props
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\scopedcss\bundle\MSpeakerMeeting.API.styles.css
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeaker.EC12F147.Up2Date
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\refint\MSpeakerMeeting.API.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.pdb
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\MSpeakerMeeting.API.genruntimeconfig.cache
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\obj\Debug\net8.0\ref\MSpeakerMeeting.API.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Salimboo\OneDrive - EFIF\Skrivebord\MSpeakerMeeting\MSpeakerMeeting\MSpeakerMeeting\bin\Debug\net8.0\Moq.dll
